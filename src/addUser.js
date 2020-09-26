@@ -1,3 +1,3 @@
 const addUser = () =>{
-    console.log("da lam xong task add")
+    console.log("nghi le 2 da lam xong task add")
 }
